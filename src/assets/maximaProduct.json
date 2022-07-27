@@ -1,0 +1,242 @@
+[
+    {
+        "id": 0,
+        "imageUrl": "https://sun9-9.userapi.com/impg/fmmOLBud1B-SzwQoROGaF9NFhLTXXiVUvMRr6g/tRF38NvC8Rc.jpg?size=321x409&quality=95&sign=1613eb3b8424f6ca3b72826235cdfe10&type=album",
+        "title": "Худи",
+        "types": [0, 1],
+        "sizes": [0, 1, 2, 3, 4, 5],
+        "category": 1,
+        "price": 1500,
+        "rating": 9
+    },
+    {
+        "id": 1,
+        "imageUrl": "https://sun9-21.userapi.com/impg/Bq6Qu23UVXdibOI-WCrq8CyTLPMwkFPohwHJ4A/egzBWLO1j1Y.jpg?size=320x409&quality=95&sign=18c5282f8539b8ce3540eea8d31eb912&type=album",
+        "title": "Худи",
+        "types": [0, 1],
+        "sizes": [0, 1, 2, 3, 4, 5],
+        "category": 1,
+        "price": 1500,
+        "rating": 8
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://sun9-37.userapi.com/impg/5NUJZpLlRpPTNMGHFNOp-wUhSyy1_9nScOZQAA/_0EY3CyUSzY.jpg?size=317x409&quality=95&sign=ac3c884dc5bae1c84e42977131c5046b&type=album",
+        "title": "Свитшот",
+        "types": [0, 1],
+        "sizes": [0, 1, 2, 3, 4, 5],
+        "category": 1,
+        "price": 1500,
+        "rating": 6
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://sun9-53.userapi.com/impg/CEussfL41T7fdbT8HTZWsDNXFWme5dAAly7UbQ/59evmxG1dNY.jpg?size=321x409&quality=95&sign=40cfb557cd00003af8afda3178b230c8&type=album",
+        "title": "Варежки",
+        "types": [0, 1],
+        "sizes": [0, 1, 2, 3, 4, 5],
+        "category": 1,
+        "price": 700,
+        "rating": 8
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://sun9-16.userapi.com/impg/hF-Qep5AlTAG4WjBLl1IGLcxurA2gDtJkBsnUQ/19N0Gi2v1-Y.jpg?size=321x409&quality=95&sign=2f607eb6115c5f3490ef3cb5b5cbe77f&type=album",
+        "title": "Рюкзак",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 2,
+        "price": 2000,
+        "rating": 8
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://sun9-41.userapi.com/impg/-2YpxCxlolz8VlyhN-cCGdKtjgLPhnnWUfInRA/VLEm6hJi8IU.jpg?size=319x409&quality=95&sign=fb5023fb65468ae871885592797d4b31&type=album",
+        "title": "Мешок",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 2,
+        "price": 1200,
+        "rating": 7
+    },
+    {
+        "id": 6,
+        "imageUrl": "https://sun9-17.userapi.com/impg/Wq--VVvjmsmCGuYXk1TTzCLYZ_7e-Jx43GtpkQ/9Yx1o5A6TCM.jpg?size=317x409&quality=95&sign=731ae021fb0195d70382788cd8e212ae&type=album",
+        "title": "Шопер",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 2,
+        "price": 1800,
+        "rating": 7
+    },
+    {
+        "id": 7,
+        "imageUrl": "https://sun9-37.userapi.com/impg/7REoqz6VNrZTC8DbCTQPr_ygYQ4i2aBfAE6Cjg/5tyHe1BnRuM.jpg?size=321x409&quality=95&sign=50c20519ba4759503e54eb4f0cbdbf30&type=album",
+        "title": "Шопер",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 2,
+        "price": 1800,
+        "rating": 6
+    },
+    {
+        "id": 8,
+        "imageUrl": "https://sun9-74.userapi.com/impg/W6dfUz1G3Jd07PZbkKmOmBU3iilRlqkCU7hohQ/dlEpQKjimjk.jpg?size=321x409&quality=95&sign=537bb1afa491b08c95e64124817d89f3&type=album",
+        "title": "Сумка",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 2,
+        "price": 1300,
+        "rating": 5
+    },
+    {
+        "id": 9,
+        "imageUrl": "https://sun9-81.userapi.com/impg/CJrw77x70H6Q3cQdatGTcke7YUloO1jYGsSoWg/djkoN6C9wsY.jpg?size=319x410&quality=95&sign=c6e04de61c262e9ac08fb392374f1ba4&type=album",
+        "title": "Мешок",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 2,
+        "price": 1200,
+        "rating": 7
+    },
+    {
+        "id": 10,
+        "imageUrl": "https://sun9-56.userapi.com/impg/uF198fVaLIqksxLss1EH85fuW71bN9a-8lBp4g/HvnAV_8LTbM.jpg?size=317x409&quality=95&sign=9d6d05268c450cbca380a9881eedfe8c&type=album",
+        "title": "Спортивная сумка",
+        "types": [0],
+        "sizes": [0],
+        "category": 2,
+        "price": 1800,
+        "rating": 8
+    },
+    {
+        "id": 11,
+        "imageUrl": "https://sun9-27.userapi.com/impg/wAEOzJh3Oi8SEfdCGB7-4bGn973dV8Cy_ZP8Zw/ghZ5ClWkF94.jpg?size=318x408&quality=95&sign=df718ebb0b6832df3e6ea66480f4cdba&type=album",
+        "title": "Внешний АКБ",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 2,
+        "price": 2000,
+        "rating": 9
+    },
+    {
+        "id": 12,
+        "imageUrl": "https://sun9-17.userapi.com/impg/DpdW6uvK9n1-BHl8AoNH0FsQQM4bnOSekr7i5g/onJJSfhbw84.jpg?size=317x409&quality=95&sign=8e3ecb6e153d74c0373f3f246f3a36ca&type=album",
+        "title": "Внешний АКБ",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 2,
+        "price": 1700,
+        "rating": 7
+    },
+    {
+        "id": 13,
+        "imageUrl": "https://sun9-37.userapi.com/impg/wPkC4HD_poBZI2zGNOSxN4BZpqJ_1iNpeNhxrA/krXCxmArT48.jpg?size=321x409&quality=95&sign=6e692f740b429ab523c5f6993fa910e1&type=album",
+        "title": "Обложка на паспорт",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 2,
+        "price": 400,
+        "rating": 8
+    },
+    {
+        "id": 14,
+        "imageUrl": "https://sun9-23.userapi.com/impg/dUqRCqUcRFHhSOgQTmBxr4lEw1zRYaY9Hy2x4Q/_v1PyY6JXHk.jpg?size=321x409&quality=95&sign=d176a119b6debe05db0bf826a20c0e38&type=album",
+        "title": "Карточница",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 2,
+        "price": 300,
+        "rating": 7
+    },
+    {
+        "id": 15,
+        "imageUrl": "https://sun9-3.userapi.com/impg/zwQKLB04998_zD_63fRLkpn1hUC_YTSf_E0Zdg/ZnV04hLggwM.jpg?size=317x409&quality=95&sign=7046279ce1ac6478e611789215e40dbe&type=album",
+        "title": "Бутылка",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 2,
+        "price": 1100,
+        "rating": 8
+    },
+    {
+        "id": 16,
+        "imageUrl": "https://sun9-83.userapi.com/impg/CRTfm-MJoWVg-rRc3zMWPFCrzYkBz7OXUM5Ewg/YgjmI1vkvHY.jpg?size=321x409&quality=95&sign=9e58d8b6bfc1c3f247ae0907e9b62b72&type=album",
+        "title": "Термос",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 2,
+        "price": 1300,
+        "rating": 9
+    },
+    {
+        "id": 17,
+        "imageUrl": "https://sun9-15.userapi.com/impg/TcHOmqEugaAbmSTzOwPH8YiNnjtfoL2jojKOpw/24tBOL-TlE8.jpg?size=321x409&quality=95&sign=912c9840df920e97587b9a51b359292f&type=album",
+        "title": "Бутылка",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 2,
+        "price": 1100,
+        "rating": 9
+    },
+    {
+        "id": 18,
+        "imageUrl": "https://sun9-19.userapi.com/impg/gQEjoPVsZdqdsd8HvjzX9cSioMiMr0S3C3SFWg/JHm7VJ1QS_w.jpg?size=319x409&quality=95&sign=cd4e4e17b8dcf934d7f2a5151dcf740a&type=album",
+        "title": "Кружка",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 2,
+        "price": 200,
+        "rating": "0"
+    },
+    {
+        "id": 19,
+        "imageUrl": "https://sun9-25.userapi.com/impg/gRDlUZ1BEoDjpbsavScRqI0Uuh4mk27xdcHG0w/4fDKjT5hKuM.jpg?size=321x409&quality=95&sign=218b0b8802948e920ff2bbaca4527204&type=album",
+        "title": "Кружка",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 2,
+        "price": 200,
+        "rating": "0"
+    },
+    {
+        "id": 20,
+        "imageUrl": "https://sun9-25.userapi.com/impg/VpJmZxS1bT6EA4K3oRq0lCUwEyH75eDtI1kScQ/pl53t26Vq1k.jpg?size=321x409&quality=95&sign=72724f8551acae519d2307ec62ec71d0&type=album",
+        "title": "Ежедневник",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 3,
+        "price": 800,
+        "rating": 5
+    },
+    {
+        "id": 21,
+        "imageUrl": "https://sun9-71.userapi.com/impg/uIhyNoScGD8QfNOS1-jwcD830gwrx4rdUu2YGw/Q8e2nWsBMqc.jpg?size=319x409&quality=95&sign=f425ce2a9678a4ab69209233b3c6e8c5&type=album",
+        "title": "Ручка",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 3,
+        "price": 70,
+        "rating": 4
+    },
+    {
+        "id": 22,
+        "imageUrl": "https://sun9-73.userapi.com/impg/SE8iIlRBbiRa1UVT9sg4qV8GcVPyWKrwuP9oCA/M2ZsREx6mdk.jpg?size=317x409&quality=95&sign=f421ac4227a81239b969a60061f937ec&type=album",
+        "title": "Карандаш",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 3,
+        "price": 50,
+        "rating": 4
+    },
+    {
+        "id": 23,
+        "imageUrl": "https://sun9-15.userapi.com/impg/NVcc-XdxXFV46q-KhRo40vSQ1c6K6d5vz9J70Q/68_BXMpTnjk.jpg?size=318x409&quality=95&sign=e230c384dd9526f378e556c00a5c3037&type=album",
+        "title": "Набор",
+        "types": [0, 1],
+        "sizes": [0],
+        "category": 3,
+        "price": 250,
+        "rating": 9
+    }
+]
